@@ -1,30 +1,3 @@
-News About Support Instructions My List Converter EPG Codes Activation
-Converting Playlists to Smart IPTV Format (beta)
-Important! Check your result and replace ext codes with appropriate codes for your country and language from here.
-
-Simple M3U -> TXT converter is located here. No EPG codes.
-Universal converter for many formats is located here. No EPG codes.
-Enigma2 to M3U converter for Windows can be found here.
-
-
-Convert Local Playlist (M3U)
-Playlist (.m3u):		
-Convert External Playlist (M3U)
-Playlist URL (.m3u):
-	
-Convert Dreambox Enigma2 Playlist (ZIP)
-Archive (.zip):	STB IP:
-Port:
-	
-Youtube Channel or Playlist (URL)
-Youtube URL:
-	
-Vkontakte Videos (URL)
-Vkontakte URL:
-	
-Result
-Table M3U TXT Get M3U Get TXTOKCheck codeSearch
-group,Ungrouped
 ext,LDC HD LBN,http://vip1080.us:8000/live/Hakan/asdfghj/38568.m3u8
 ext,AL-Sirat,https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
 ext,AL-MANAR,https://manar.live/x.smil/tracks-v1a1/mono.m3u8
