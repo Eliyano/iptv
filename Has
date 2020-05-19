@@ -1,519 +1,223 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",LDC HD LBN
-http://vip1080.us:8000/live/Hakan/asdfghj/38568.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL-Sirat
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL-MANAR
-https://manar.live/x.smil/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL JADEED HD LBN
-http://vip1080.us:8000/live/Hakan/asdfghj/38564.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NBN HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/8836.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MTV HD LBN
-http://vip1080.us:8000/live/Hakan/asdfghj/38569.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OTV HD LBN
-http://vip1080.us:8000/live/Hakan/asdfghj/38571.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC 1 MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38727.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TELE LEBANON TV HD LBN
-http://vip1080.us:8000/live/Hakan/asdfghj/38572.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC 2 MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38728.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",FUTURE TV HD LBN
-http://vip1080.us:8000/live/Hakan/asdfghj/38565.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC 3 MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38729.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC 4 MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38730.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC Bollywood MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38732.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC Action MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38731.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC Drama MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38733.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC Plus Drama MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38735.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC Max MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38734.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC-PLUS-VARIETY MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38736.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC MASR HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/3468.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC MASR 2 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/3469.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SAMA TV HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/8834.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORT 1 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46657.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Bein Sports 2 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46658.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 3 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46659.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 4 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46660.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 5 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46661.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 6 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46662.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 7 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46663.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 8 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46664.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 9 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/46665.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 10 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/50724.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 11 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/50725.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 12 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/50726.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 13 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/50727.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Discovery SC MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38744.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NAT Geo MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38741.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NAT Geo Wild MYHD AR (H264)
-http://vip1080.us:8000/live/Hakan/asdfghj/38742.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN  YAHALA HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/45729.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN YAHALA 1 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/45730.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN YAHALA CINEMA HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/45731.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART.AFLAM 1 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49329.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART.AFLAM 2 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49330.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART.CINEMA HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49331.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART.HEKAYAT 1 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49332.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART.HEKAYAT 2 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49333.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ORBIT  ALYAWM HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49339.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ORBIT CINEMA 1 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49334.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ORBIT CINEMA 2 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49335.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ORBIT MUSALSALAT 1 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49336.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ORBIT MUSALSALAT 2 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49337.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ORBIT MUSIC NOW HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49338.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN  E! HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49359.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ANIMAL PLANET HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49349.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Boomerang HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49352.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISCOVERY HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49354.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISCOVERY ID HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49355.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISCOVERY SCIENCE HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49356.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISNEY HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49357.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISNEY JUNIOR HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49358.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISNEY XD HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49346.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN HISTORY HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49362.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN KIDS ZONE HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49363.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN LIVING HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49364.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES ACTION HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49366.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES BINGI HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49367.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES Disney HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49368.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES ENGIMA HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49369.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES FIRST  2 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49361.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES FIRST HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49360.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49365.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES KIDS HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49370.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MTV LIVE HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49343.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NAT GEO HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49371.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Osn Nat Geo Kids HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49383.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NAT GEO PEOPLE HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49372.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NAT GEO WILD HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49373.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NICKELODEON HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49375.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN SERIES COMEDY HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49377.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN SERIES FIRST HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49378.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN STAR MOVIES HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49380.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN STAR WORLD HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49381.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN YAHALA HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49341.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL INSENE HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49314.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL JANOUBIA HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49315.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL MUSTAKILAH HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49316.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL TTESSIA HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49317.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",EL HIWAR ETTOUNSI HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49318.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HANNIBAL TV HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49319.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",M TUNISIA HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49320.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NAT 1 HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49322.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NAT 2 HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49323.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NESSMA TV HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49324.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SAHEL TV HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49325.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TELVZA TV HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49326.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TOUNESNA HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49327.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ZAYTOUNA TV HD TN
-http://vip1080.us:8000/live/Hakan/asdfghj/49328.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABU DHABI HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38543.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AD DRAMA HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38544.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AD EMARAT HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38545.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AD NAT GEO HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38546.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL WAHA HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38547.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALAAN TV HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38548.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DUBAI NOOR HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38549.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DUBAI ONE HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38550.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DUBAI RACING 2 HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38551.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DUBAI RACING 3 HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38552.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DUBAI SAMA HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38553.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DUBAI SPORT 3 HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38555.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DUBAI TV HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38556.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DUBAI ZAMAN HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38557.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SHARJAH TV HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38562.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",YAS SPORT HD UAE
-http://vip1080.us:8000/live/Hakan/asdfghj/38563.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL ARABIYA HD KSA
-http://vip1080.us:8000/live/Hakan/asdfghj/46654.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL HAJ HD KSA
-http://vip1080.us:8000/live/Hakan/asdfghj/38403.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALSAHRAA HD KSA
-http://vip1080.us:8000/live/Hakan/asdfghj/38407.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SBC HD KSA
-http://vip1080.us:8000/live/Hakan/asdfghj/38413.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TV 1 HD KSA
-http://vip1080.us:8000/live/Hakan/asdfghj/38418.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALQANAT 9 HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38573.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AlYAUM TV HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38575.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ANN HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38574.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DRAMA HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38576.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",EDUCATION HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38577.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",LANA  PLUS HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38580.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",LANA HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38579.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MINBIJ TV HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38583.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NOUR HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38585.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ORIENT HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38586.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SAMA HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38588.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SATELLITE TV HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38589.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SHAM FM HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38590.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TV HD SYR
-http://vip1080.us:8000/live/Hakan/asdfghj/38591.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",7BESHA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38443.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL AHLY HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38444.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL HAYAT 2 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38447.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL HAYAT HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38446.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL HAYAT MUSALSALAT HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38448.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL MAJD HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38449.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL MASRIYA 1 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38451.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL MASRIYA 2 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38452.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL NAHAR DRAMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38453.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL NAHAR ONE HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38454.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL NAS HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38455.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL OSTORA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38456.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL OULA HD HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38457.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL QAHERA WA AL NAS 1 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38459.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL QAHERA WA AL NAS 2 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38460.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL RAHMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38461.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL SA3A COMEDY HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38462.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL SA3A MASRA7 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38463.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL SHASHA FOOD HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38466.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL SHASHA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38465.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BELODY AFLAM HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38474.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CAIRO CINEMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38475.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CAIRO DRAMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38476.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CBC DRAMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38478.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CBC EXTRA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38479.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CBC HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38477.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CBC SOFRA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38480.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CINEMA PRO HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38482.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DMC DRAMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38486.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DMC HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38485.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DMC HD HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38487.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DMC SPORT HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38488.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DREAM HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38489.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",EXTRA NEWS HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38491.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",FAMILY DRAMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38493.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HAWACOM TV HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38496.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HEKAYA TV HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38497.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MASR Al ZERA3EYA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38501.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAZZIKAH HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38502.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MEKAMELEEN TV HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38504.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MELODY CLASSIC HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38506.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NILE CINEMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38510.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NILE COMEDY HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38511.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NILE CULTURE HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38512.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ُNILE DRAMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38542.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NILE FAMILY HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38513.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NILE LIFE HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38514.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NILE NEWS HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38515.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NILE SPORT HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38516.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NILE TV HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38517.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ON E HD HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38518.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ON E TV HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38519.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",PANORAMA DRAMA 2 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38526.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",PANORAMA DRAMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38525.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",PANORAMA FILM HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38527.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",PANORAMA FOOD HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38528.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",RISALAT AL ISLMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38529.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SADA EL BALAD 2 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38531.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SADA EL BALAD DRAMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38532.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SADA EL BALAD HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38530.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SAHAR TV HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38533.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TATT 7 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38537.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TEN HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38538.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TIME CINEMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38539.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TOKTOK AFLAM HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38540.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TOKTOK CINEMA HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38541.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",STAR CINEMA 1 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38535.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",STAR CINEMA 2 HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38536.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SHA3BYAT HD EGY
-http://vip1080.us:8000/live/Hakan/asdfghj/38534.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AHL ULBAYT HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38594.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL ANWAR HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38596.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL BAGHDADIA NOW HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38600.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",IMAM HUSSEIN HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38634.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",IMAM REDA TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38635.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KARBALA TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38638.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MUSIC ALHANEN HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38640.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MUSIC ALREMAS HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38641.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38643.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",PUBLI TOOLS HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38645.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SAMARRA TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38647.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SUMARIA HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38651.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38652.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",WESAL HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38653.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL FORAT TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38603.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL HURRA TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38604.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL KAWTHAR HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38605.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL MAAREF TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38606.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL MASSAR AL OULA HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38609.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL MAWQEF HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38610.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL MAWSLEYA HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38611.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL RAFIDAIN HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38613.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL RASED HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38614.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL RASHEED HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38615.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL SHARQIA FROM KARBALA HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38617.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL SHARQIA HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38616.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL TAGHIER HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38618.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL3HAD TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38620.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALGHADEER HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38624.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ASIA TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38626.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DEWAN TV HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38628.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",IFILM ARABIC HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38632.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",IMAM ALI HD IRQ
-http://vip1080.us:8000/live/Hakan/asdfghj/38633.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL AQSA HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38421.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL FAJER 1 HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38423.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL FAJER 2 HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38424.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL KOFIYA HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38425.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL QUDS HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38426.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALSALAM HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38428.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AWDEH HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38429.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HALA HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38432.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KOL AL NAS HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38433.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MUSAWA TV HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38436.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",PALESTINE  LIVE HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38438.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",PALESTINE SPORT HD PSE
-http://vip1080.us:8000/live/Hakan/asdfghj/38439.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",A3 HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38665.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALGERIA TV HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38670.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BAHIA TV HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38672.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BERBERE TV HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38673.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEUR TV HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38674.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CHAMS TV HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38676.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DZAIR JANNAH HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38677.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DZAIR TV HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38678.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ECHOROUK HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38679.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",EL BILAD HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38684.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",EL HADDAF HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38686.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",EL HAYAT TV HD ALG
-http://vip1080.us:8000/live/Hakan/asdfghj/38687.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DRAMA HD SDN
-http://vip1080.us:8000/live/Hakan/asdfghj/38698.m3u8
+#EXTINF:-1,jordan satalite
+http://62.210.76.207:443/movie/jordan2019/jordan2019/623.mp4
+#EXTINF:-1,Jordan tv
+http://62.210.76.207:443/live/jordan2019/jordan2019/626.ts
+#EXTINF:-1,Roya tv
+http://62.210.76.207:443/live/jordan2019/jordan2019/625.ts
+#EXTINF:-1,josat
+http://62.210.76.207:443/live/jordan2019/jordan2019/672.ts
+#EXTINF:-1,almamlka
+http://62.210.76.207:443/live/jordan2019/jordan2019/624.ts
+#EXTINF:-1,Zweina Beladna
+http://62.210.76.207:443/live/jordan2019/jordan2019/671.ts
+#EXTINF:-1,Al-Fajer TV 2
+http://62.210.76.207:443/live/jordan2019/jordan2019/504.ts
+#EXTINF:-1,SPORT 1 (ps)
+http://62.210.76.207:443/live/jordan2019/jordan2019/516.ts
+#EXTINF:-1,SPORT 2 (ps)
+http://62.210.76.207:443/live/jordan2019/jordan2019/517.ts
+#EXTINF:-1,SPORT 3 (ps)
+http://62.210.76.207:443/live/jordan2019/jordan2019/518.ts
+#EXTINF:-1,bethlam tv hd
+http://62.210.76.207:443/live/jordan2019/jordan2019/513.ts
+#EXTINF:-1,alsalam tv hd
+http://62.210.76.207:443/live/jordan2019/jordan2019/509.ts
+#EXTINF:-1,ajyal tv hd
+http://62.210.76.207:443/live/jordan2019/jordan2019/511.ts
+#EXTINF:-1,pnn tv tv sd
+http://62.210.76.207:443/live/jordan2019/jordan2019/519.ts
+#EXTINF:-1,kolnas tv hd
+http://62.210.76.207:443/live/jordan2019/jordan2019/512.ts
+#EXTINF:-1,layali salhya
+http://62.210.76.207:443/live/jordan2019/jordan2019/686.ts
+#EXTINF:-1,bab alhara 1
+http://62.210.76.207:443/live/jordan2019/jordan2019/677.ts
+#EXTINF:-1,bab alhara 2
+http://62.210.76.207:443/live/jordan2019/jordan2019/678.ts
+#EXTINF:-1,bab alhara 3
+http://62.210.76.207:443/live/jordan2019/jordan2019/679.ts
+#EXTINF:-1,bab alhara 4
+http://62.210.76.207:443/live/jordan2019/jordan2019/680.ts
+#EXTINF:-1,bab alhara 5
+http://62.210.76.207:443/live/jordan2019/jordan2019/681.ts
+#EXTINF:-1,bab alhara 6
+http://62.210.76.207:443/live/jordan2019/jordan2019/682.ts
+#EXTINF:-1,bab alhara 7
+http://62.210.76.207:443/live/jordan2019/jordan2019/683.ts
+#EXTINF:-1,bab alhara 8
+http://62.210.76.207:443/live/jordan2019/jordan2019/684.ts
+#EXTINF:-1,bab alhara 9
+http://62.210.76.207:443/live/jordan2019/jordan2019/685.ts
+#EXTINF:-1,maraya1
+http://62.210.76.207:443/live/jordan2019/jordan2019/689.ts
+#EXTINF:-1,maraya2
+http://62.210.76.207:443/live/jordan2019/jordan2019/690.ts
+#EXTINF:-1,conan 2017
+http://62.210.76.207:443/live/jordan2019/jordan2019/688.ts
+#EXTINF:-1,msrhyat arabi 1
+http://62.210.76.207:443/live/jordan2019/jordan2019/691.ts
+#EXTINF:-1,msrhyat arabi 2
+http://62.210.76.207:443/live/jordan2019/jordan2019/692.ts
+#EXTINF:-1,ma fi metlo
+http://62.210.76.207:443/live/jordan2019/jordan2019/687.ts
+#EXTINF:-1,AR:OSN_YAHALA_CINEMA
+http://62.210.76.207:443/live/jordan2019/jordan2019/707.ts
+#EXTINF:-1,AR:OSN_YAHALA_ALOULA
+http://62.210.76.207:443/live/jordan2019/jordan2019/700.ts
+#EXTINF:-1,AR:OSN_YAHALA
+http://62.210.76.207:443/live/jordan2019/jordan2019/698.ts
+#EXTINF:-1,AR:OSN_STAR_MOVIES
+http://62.210.76.207:443/live/jordan2019/jordan2019/709.ts
+#EXTINF:-1,AR:OSN_SERIES
+http://62.210.76.207:443/live/jordan2019/jordan2019/705.ts
+#EXTINF:-1,AR:OSN_ON_DEMAND_EXTRA
+http://62.210.76.207:443/live/jordan2019/jordan2019/693.ts
+#EXTINF:-1,AR:OSN_ONDEMAND
+http://62.210.76.207:443/live/jordan2019/jordan2019/701.ts
+#EXTINF:-1,AR:OSN_MOVIES_THRILLER
+http://62.210.76.207:443/live/jordan2019/jordan2019/702.ts
+#EXTINF:-1,AR:OSN_MOVIES_PREMIERE2
+http://62.210.76.207:443/live/jordan2019/jordan2019/706.ts
+#EXTINF:-1,AR:OSN_MOVIES_PREMIERE
+http://62.210.76.207:443/live/jordan2019/jordan2019/694.ts
+#EXTINF:-1,AR:OSN_MOVIES_FIRST
+http://62.210.76.207:443/live/jordan2019/jordan2019/703.ts
+#EXTINF:-1,AR:OSN_MOVIES_FESTIVAL
+http://62.210.76.207:443/live/jordan2019/jordan2019/699.ts
+#EXTINF:-1,AR:OSN_MOVIES_COMEDY
+http://62.210.76.207:443/live/jordan2019/jordan2019/704.ts
+#EXTINF:-1,AR:OSN_MOVIES_ACTION2
+http://62.210.76.207:443/live/jordan2019/jordan2019/696.ts
+#EXTINF:-1,AR:OSN_MOVIES_ACTION
+http://62.210.76.207:443/live/jordan2019/jordan2019/697.ts
+#EXTINF:-1,AR:OSN_MOVIES
+http://62.210.76.207:443/live/jordan2019/jordan2019/695.ts
+#EXTINF:-1,AR:OSN_BOXOFFICE1
+http://62.210.76.207:443/live/jordan2019/jordan2019/710.ts
+#EXTINF:-1,AR:OSN_BOXOFFICE3
+http://62.210.76.207:443/live/jordan2019/jordan2019/712.ts
+#EXTINF:-1,AR:BEIN_MOVIES2
+http://62.210.76.207:443/live/jordan2019/jordan2019/714.ts
+#EXTINF:-1,AR:BEIN_MOVIES1
+http://62.210.76.207:443/live/jordan2019/jordan2019/713.ts
+#EXTINF:-1,RO: DIGISPORT1
+http://62.210.76.207:443/live/jordan2019/jordan2019/673.ts
+#EXTINF:-1,RO: DIGISPORT2
+http://62.210.76.207:443/live/jordan2019/jordan2019/674.ts
+#EXTINF:-1,RO: DIGISPORT3
+http://62.210.76.207:443/live/jordan2019/jordan2019/675.ts
+#EXTINF:-1,RO: DIGISPORT4
+http://62.210.76.207:443/live/jordan2019/jordan2019/676.ts
+#EXTINF:-1,vip beIN Sport 1
+http://62.210.76.207:443/live/jordan2019/jordan2019/616.ts
+#EXTINF:-1,vip beIN Sport 2
+http://62.210.76.207:443/live/jordan2019/jordan2019/617.ts
+#EXTINF:-1,vip beIN Sport 3
+http://62.210.76.207:443/live/jordan2019/jordan2019/618.ts
+#EXTINF:-1,vip beIN Sport 4
+http://62.210.76.207:443/live/jordan2019/jordan2019/619.ts
+#EXTINF:-1,vip beIN Sport 5
+http://62.210.76.207:443/live/jordan2019/jordan2019/620.ts
+#EXTINF:-1,vip beIN Sport 6
+http://62.210.76.207:443/live/jordan2019/jordan2019/621.ts
+#EXTINF:-1,VIP BEIN SPORT 7
+http://62.210.76.207:443/live/jordan2019/jordan2019/667.ts
+#EXTINF:-1,VIP BEIN SPORT 8
+http://62.210.76.207:443/live/jordan2019/jordan2019/668.ts
+#EXTINF:-1,VIP BEIN SPORT 9
+http://62.210.76.207:443/live/jordan2019/jordan2019/669.ts
+#EXTINF:-1,VIP BEIN SPORT 10
+http://62.210.76.207:443/live/jordan2019/jordan2019/670.ts
+#EXTINF:-1,alistiqama
+http://62.210.76.207:443/live/jordan2019/jordan2019/544.ts
+#EXTINF:-1,ayat
+http://62.210.76.207:443/live/jordan2019/jordan2019/546.ts
+#EXTINF:-1,Mekka tv
+http://62.210.76.207:443/live/jordan2019/jordan2019/545.ts
+#EXTINF:-1,qureen
+http://62.210.76.207:443/live/jordan2019/jordan2019/542.ts
+#EXTINF:-1,qotami
+http://62.210.76.207:443/live/jordan2019/jordan2019/550.ts
+#EXTINF:-1,Wesal tv
+http://62.210.76.207:443/live/jordan2019/jordan2019/547.ts
+#EXTINF:-1,TRT World
+http://62.210.76.207:443/live/jordan2019/jordan2019/563.ts
+#EXTINF:-1,TRT Turk
+http://62.210.76.207:443/live/jordan2019/jordan2019/560.ts
+#EXTINF:-1,TRT Muzik
+http://62.210.76.207:443/live/jordan2019/jordan2019/558.ts
+#EXTINF:-1,TRT Kurdi
+http://62.210.76.207:443/live/jordan2019/jordan2019/562.ts
+#EXTINF:-1,TRT Haber
+http://62.210.76.207:443/live/jordan2019/jordan2019/557.ts
+#EXTINF:-1,TRT Avaz
+http://62.210.76.207:443/live/jordan2019/jordan2019/555.ts
+#EXTINF:-1,Rudaw
+http://62.210.76.207:443/live/jordan2019/jordan2019/561.ts
+#EXTINF:-1,MINIKA Gococukm
+http://62.210.76.207:443/live/jordan2019/jordan2019/580.ts
+#EXTINF:-1,MINIKA GO
+http://62.210.76.207:443/live/jordan2019/jordan2019/579.ts
+#EXTINF:-1,kanal d
+http://62.210.76.207:443/live/jordan2019/jordan2019/567.ts
+#EXTINF:-1,ATV AZ
+http://62.210.76.207:443/live/jordan2019/jordan2019/569.ts
+#EXTINF:-1,ATV
+http://62.210.76.207:443/live/jordan2019/jordan2019/572.ts
+#EXTINF:-1,A NEWS
+http://62.210.76.207:443/live/jordan2019/jordan2019/578.ts
+#EXTINF:-1,[AR]_MBC_1
+http://62.210.76.207:443/live/jordan2019/jordan2019/661.ts
+#EXTINF:-1,[AR]_MBC_2
+http://62.210.76.207:443/live/jordan2019/jordan2019/662.ts
+#EXTINF:-1,[AR]_MBC_3
+http://62.210.76.207:443/live/jordan2019/jordan2019/663.ts
+#EXTINF:-1,[AR]_MBC_4
+http://62.210.76.207:443/live/jordan2019/jordan2019/664.ts
+#EXTINF:-1,[AR]_MBC_MAX
+http://62.210.76.207:443/live/jordan2019/jordan2019/665.ts
+#EXTINF:-1,[AR]_MBC_ACTION
+http://62.210.76.207:443/live/jordan2019/jordan2019/666.ts
+#EXTINF:-1,AR:BEINSPORTS Low_1
+http://62.210.76.207:443/live/jordan2019/jordan2019/646.ts
+#EXTINF:-1,AR:BEINSPORTS Low_2
+http://62.210.76.207:443/live/jordan2019/jordan2019/648.ts
+#EXTINF:-1,AR:BEINSPORTS Low_3
+http://62.210.76.207:443/live/jordan2019/jordan2019/650.ts
+#EXTINF:-1,AR:BEINSPORTS Low_4
+http://62.210.76.207:443/live/jordan2019/jordan2019/652.ts
+#EXTINF:-1,AR:BEINSPORTS Low_5
+http://62.210.76.207:443/live/jordan2019/jordan2019/654.ts
+#EXTINF:-1,AR:BEINSPORTS Low_6
+http://62.210.76.207:443/live/jordan2019/jordan2019/656.ts
+#EXTINF:-1,AR:BEINSPORTS Low_7
+http://62.210.76.207:443/live/jordan2019/jordan2019/658.ts
+#EXTINF:-1,AR:BEINSPORTS Low_8
+http://62.210.76.207:443/live/jordan2019/jordan2019/660.ts
+#EXTINF:-1,AR:BEINSPORTS-1-SD
+http://62.210.76.207:443/live/jordan2019/jordan2019/645.ts
+#EXTINF:-1,AR:BEINSPORTS-2-SD
+http://62.210.76.207:443/live/jordan2019/jordan2019/647.ts
+#EXTINF:-1,AR:BEINSPORTS-3-SD
+http://62.210.76.207:443/live/jordan2019/jordan2019/649.ts
+#EXTINF:-1,AR:BEINSPORTS-4-SD
+http://62.210.76.207:443/live/jordan2019/jordan2019/651.ts
+#EXTINF:-1,AR:BEINSPORTS-5-SD
+http://62.210.76.207:443/live/jordan2019/jordan2019/653.ts
+#EXTINF:-1,AR:BEINSPORTS-6-SD
+http://62.210.76.207:443/live/jordan2019/jordan2019/655.ts
+#EXTINF:-1,AR:BEINSPORTS-7-SD
+http://62.210.76.207:443/live/jordan2019/jordan2019/657.ts
+#EXTINF:-1,AR:BEINSPORTS-8-SD
+http://62.210.76.207:443/live/jordan2019/jordan2019/659.ts
+#EXTINF:-1,Falcon-Eye
+http://62.210.76.207:443/live/jordan2019/jordan2019/582.ts
+#EXTINF:-1,nat geo wild
+http://62.210.76.207:443/live/jordan2019/jordan2019/610.ts
+#EXTINF:-1,Al Jazeera Documentary
+http://62.210.76.207:443/live/jordan2019/jordan2019/614.ts
+#EXTINF:-1,Quest Arabic
+http://62.210.76.207:443/live/jordan2019/jordan2019/611.ts
+#EXTINF:-1,Animal-Planet
+http://62.210.76.207:443/live/jordan2019/jordan2019/612.ts
